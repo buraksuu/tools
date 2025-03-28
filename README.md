@@ -15,5 +15,6 @@ Clone the repository and navigate to the tool directory:
 
 ```bash
 git clone https://github.com/buraksuu/tools.git
+cd Internal
 python3 mcafee_sitelist_pwd_decrypt.py <KEY>
 ```
